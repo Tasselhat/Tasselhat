@@ -1,1 +1,1 @@
-Self taught web developer, Teacher, Coach, design enthusiast
+Self taught web developer, Teacher, Coach, Design enthusiast
