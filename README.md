@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There ⚔️🧔🏼👘
 
 - 🔭 I’m currently working as a Full-Stack Software Engineer at \\Stealth Fintech Startup\\
 - 📫 How to reach me: tim.b.schneider@gmail.com
