@@ -9,6 +9,7 @@ I specialize in full stack web development. I mainly use JS/TS and Python, and h
 
 ![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasselhat&theme=swift&show_icons=true&count_private=true&hide_rank=true) <br>
 
+<!--
 ### Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="Javascript" width="26px" src=""/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src=""/> </a>
@@ -19,3 +20,4 @@ I specialize in full stack web development. I mainly use JS/TS and Python, and h
 <br>
 
 ### Softwares 
+/>
