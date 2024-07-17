@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Full-Stack Software Engineer at \\Stealth Fintech Startup\\
 - 📫 How to reach me: tim.b.schneider@gmail.com
 
-I specialize in full stack web development. I mainly use Javascript/Typescript and Python, and have made full stack applications using Next.js, React, Node, Flask, and other frameworks and technologies.
+I specialize in full stack web development. I mainly use Javascript/Typescript and Python, and have make full stack web applications using Next.js, React, Node, Flask, and Mobile apps with React Native as well as various other frameworks and technologies.
 
 
 ![Tims's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasselhat&theme=swift&show_icons=true&count_private=true&hide_rank=true) <br>
