@@ -1,6 +1,6 @@
 ## Hello There ⚔️🧔🏼👘
 
-- 🔭 I’m currently working as a Full-Stack Software Engineer at Advice Engagement Inc.
+- 🔭 I’m currently working as a Full-Stack Software Engineer at VisitorReach
 - 📫 How to reach me: tim.b.schneider@gmail.com
 
 I specialize in full stack web development. I mainly use Javascript/Typescript and Python, and make full stack web applications using Next.js, React, Node, Flask, and Mobile apps with React Native as well as various other frameworks and technologies.
